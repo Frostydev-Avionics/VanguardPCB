@@ -1,3 +1,0 @@
-Removed Member From Class: ClassName=STM32-Power Member=R1
-Change Component Designator: OldDesignator=R1 NewDesignator=R16
-Added Member To Class: ClassName=STM32-Power Member=Component R16 10K
