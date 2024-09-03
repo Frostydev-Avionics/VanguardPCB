@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=ASM330.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ASM330.SchDoc|FileName=FlashMem.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ASM330.SchDoc|FileName=GPS.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=ASM330.SchDoc|FileName=LPS22.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ASM330.SchDoc|FileName=LSM303.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ASM330.SchDoc|FileName=STM32-IO.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ASM330.SchDoc|FileName=STM32-Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ASM330.SchDoc|FileName=USB.SchDoc|SheetNumber=4

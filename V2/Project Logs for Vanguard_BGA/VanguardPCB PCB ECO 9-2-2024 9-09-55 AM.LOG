@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=S? NewDesignator=S2
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Member To Class: ClassName=LSM303 Member=Component S2 LSM303AGRTR
+Added Member To Class: ClassName=STM32-Power Member=Component U4 ST1L05CPU33R
